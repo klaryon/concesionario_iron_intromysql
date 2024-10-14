@@ -2,6 +2,8 @@
 
 ## Codigo base de datos Consesionario de coches - Ironhack Data Analysis
 ### Equipo 7: Paula, Esteban, Adrián, Clarissa
+
+Como experto en datos, trabajas en una empresa de concesionarios de automóviles que vende coches nuevos de diversas marcas y modelos. Tu empresa es pequeña y nueva, pero tiene sucursales en varios países. Desde la fundación de la empresa, tus colegas han vendido varios coches a los clientes. Ahora tu jefe se ha dado cuenta de que tu empresa necesita imperativamente una base de datos para mantener registros sobre los coches, vendedores, clientes y facturas. Tu jefe confía mucho en ti, por lo que te ha asignado el desafío de diseñar, crear y gestionar la base de datos.
  
 ```sql
 CREATE DATABASE Concesionario;
