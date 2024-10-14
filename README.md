@@ -4,7 +4,9 @@
 ### Equipo 7: Paula, Esteban, Adrián, Clarissa
 
 Como experto en datos, trabajas en una empresa de concesionarios de automóviles que vende coches nuevos de diversas marcas y modelos. Tu empresa es pequeña y nueva, pero tiene sucursales en varios países. Desde la fundación de la empresa, tus colegas han vendido varios coches a los clientes. Ahora tu jefe se ha dado cuenta de que tu empresa necesita imperativamente una base de datos para mantener registros sobre los coches, vendedores, clientes y facturas. Tu jefe confía mucho en ti, por lo que te ha asignado el desafío de diseñar, crear y gestionar la base de datos.
- 
+
+![Diagram](https://github.com/klaryon/concesionario_iron_intromysql/blob/main/Consesionario_database_image.png)
+
 ```sql
 CREATE DATABASE Concesionario;
 
@@ -81,4 +83,4 @@ VALUES
 (0, 852399038,	'22-08-2018','0','1','3'),
 (1, 731166526,	'31-12-2018','3','0','5'),
 (2, 271135104,	'22-01-2019','2','2','7');
-
+```
