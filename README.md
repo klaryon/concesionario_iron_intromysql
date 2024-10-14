@@ -63,7 +63,7 @@ VALUES
 INSERT INTO Clientes (ID, ClienteID, Nombre, Telefono, Mail, Direccion, Ciudad, Estado, Pais, CodigoPostal)
 VALUES
 (0, 10001, 'Pablo Picasso', '+34 636 17 63 82', '-', 'Paseo de la Chopera, 14', 'Madrid', 'Madrid', 'España', '28045'), 
-(1, 20001, 'Abraham Lincoln', '+1 305 907 7086', 'ana.leon@gmail.com', '120 SW 8th St', 'Miami', 'Florida', 'Estados Unidos', '33130'), 
+(1, 20001, 'Abraham Lincoln', '+1 305 907 7086', '-', '120 SW 8th St', 'Miami', 'Florida', 'Estados Unidos', '33130'), 
 (2, 30001, 'Napoléon Bonaparte', '+33 1 79 75 40 00', '-', '40 Rue du Colisée', 'París', 'Île-de-France', 'Francia', '75008');
 
 
