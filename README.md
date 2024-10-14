@@ -67,7 +67,7 @@ VALUES
 (2, 30001, 'Napoléon Bonaparte', '+33 1 79 75 40 00', '-', '40 Rue du Colisée', 'París', 'Île-de-France', 'Francia', '75008');
 
 
-INSERT INTO Vendedores (ID, vendedor_id, vendedor_nombre,vendedor_tienda)
+INSERT INTO Vendedores (ID, Vendedor_ID, Vendedor_nombre, Vendedor_tienda)
 VALUES
 (0, 00001,'Petey,Cruiser','Madrid'),
 (1, 00002,'Anna Sthesia','Barcelona'),
